@@ -344,18 +344,6 @@ Output per model:
 └── README.md                  # This file
 ```
 
----
-
-## Contributors
-
-| Name | Student ID |
-|------|-----------|
-| Amna Ahmed | CS-23016 |
-| Waleed Ahmed Khan | CS-23044 |
-| Abdul Wahab | CS-23035 |
-
-**Instructors:** Dr. Maria Waqas · Miss Mahnoor Malik  
-**Course:** CS-324 Machine Learning — FAST-NUCES  
 
 > A separate technical report accompanies this notebook with full methodology, results analysis, and theoretical justification for all design decisions.
 
