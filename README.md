@@ -365,8 +365,3 @@ Output per model:
 - Real-time deployment dashboard with live FPR/FNR monitoring
 - SHAP-based global feature attribution across all model families
 
----
-
-## AI Use Declaration
-
-Generative AI (ChatGPT) was used for debugging assistance, visualisation suggestions, and report refinement. All implementation, experimentation, hyperparameter decisions, analysis, and architectural choices were performed and verified by the student team.
