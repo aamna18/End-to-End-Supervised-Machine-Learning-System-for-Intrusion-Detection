@@ -1,6 +1,6 @@
 #  End-to-End Supervised Machine Learning System for Intrusion Detection
 
-A complete machine learning pipeline for binary network intrusion detection. Raw packet captures are transformed into flow-level behavioral features, passed through a rigorous preprocessing and noise-injection pipeline, then used to train and compare **18 model configurations** across three algorithm families. Developed for **CS-324 Machine Learning** at FAST-NUCES.
+A complete machine learning pipeline for binary network intrusion detection. Raw packet captures are transformed into flow-level behavioral features, passed through a rigorous preprocessing and noise-injection pipeline, then used to train and compare **18 model configurations** across three algorithm families. 
 
 ---
 
